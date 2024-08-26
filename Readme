@@ -1,0 +1,24 @@
+Projeto de Criptografia e Descriptografia de Códigos
+Este é um projeto simples em Python que permite criptografar e descriptografar códigos textuais. A criptografia utilizada é baseada em um simples deslocamento das letras do alfabeto para frente, enquanto a descriptografia faz o processo inverso para recuperar o texto original.
+Instalação
+Certifique-se de ter o Python instalado em seu sistema. Este projeto não requer dependências adicionais.
+Clone o repositório:
+   git clone https://github.com/seu-usuario/projeto-criptografia.git
+Navegue até o diretório do projeto:
+bash
+   {cd projeto-criptografia}
+
+Utilização
+Criptografar um código:
+Para criptografar um código, execute o script criptografar.py e siga as instruções:
+
+bash
+{python criptografar.py}
+
+Descriptografar um código:
+Para descriptografar um código, execute o script descriptografar.py e siga as instruções:
+
+bash
+{python descriptografar.py}
+
+!Este é um projeto simples e de código aberto. Fique à vontade para contribuir, reportar problemas ou sugerir melhorias.
